@@ -1,4 +1,4 @@
-<h1 align="left">Hi I’m Daniel Hedayati👋Web Developer & Creative Technologist</h1>
+<h1 align="left">Hi I’m Alireza Hedayati👋Web Developer & Creative Technologist</h1>
 
 ###
 
